@@ -31,13 +31,15 @@ How to Use :
 5.Click 'Calculate Tax'
   Click the "Calculate Tax" button to see the calculated tax amount in the result modal.
   
-Screenshots
+Screenshots :
 -> Calculator Interface
 -> Result Modal
 
-Contributions
+Contributions :
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+License :
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
